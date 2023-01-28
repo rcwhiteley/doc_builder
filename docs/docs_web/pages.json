@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Remuneraciones",
+    "logo": "https://www.brokering.cl/wp-content/uploads/2020/03/igualdad-de-remuneraciones.fw_.png",
+    "groups": [
+      {
+        "name": "Categoria 1",
+        "pages": [
+          {
+            "name": "Página 1",
+            "url": "https://www.brokering.cl/wp-content/uploads/2020/03/igualdad-de-remuneraciones.fw_.png"
+          },
+          {
+            "name": "Página 2",
+            "url": "https://www.brokering.cl/wp-content/uploads/2020/03/igualdad-de-remuneraciones.fw_.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Framework",
+    "logo": "https://www.brokering.cl/wp-content/uploads/2020/03/igualdad-de-remuneraciones.fw_.png",
+    "groups": [
+      {
+        "name": "Categoria 1",
+        "pages": [
+          {
+            "name": "Página 1",
+            "url": "https://www.brokering.cl/wp-content/uploads/2020/03/igualdad-de-remuneraciones.fw_.png"
+          },
+          {
+            "name": "Página 2",
+            "url": "https://www.brokering.cl/wp-content/uploads/2020/03/igualdad-de-remuneraciones.fw_.png"
+          }
+        ]
+      }
+    ]
+  }
+]
